@@ -14,3 +14,6 @@ aukak/BKHK
 
 Blooket-Council
 
+# Past pins 
+## Revived by wayback machine
+https://web.archive.org/web/20260519141710/https://coding4hours.github.io/Blooket-Cheats/ (not rlly working)
