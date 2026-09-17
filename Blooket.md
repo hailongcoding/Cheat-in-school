@@ -8,13 +8,17 @@ glixzzy
 Blooket-Council/Blooket-Cheats
 
 # Tops
-IyaadArshad/blooket-hacks --> https://gitlab.com/blooket/blooket-cheats/-/blob/main/cheats/crypto/alwaysTriple.js?ref_type=heads
+IyaadArshad/blooket-hacks --> https://gitlab.com/blooket/blooket-cheats/-/blob/main/
 
 aukak/BKHK
 
 Blooket-Council
 
-# Latest ?
+# Materials for remake 
+https://github.com/blookithaks/blooket-cheats/tree/main
+
+https://github.com/microcyan/Blooket-Cheats-Fork
+
 https://github.com/shox404/Blooket-Cheats/
 
 # Past pins 
